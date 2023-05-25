@@ -1,0 +1,17 @@
+C:\Users\brein\source\repos\OrdenamientoInsertion\OrdenamientoInsertion\bin\Debug\net6.0-windows\OrdenamientoInsertion.exe
+C:\Users\brein\source\repos\OrdenamientoInsertion\OrdenamientoInsertion\bin\Debug\net6.0-windows\OrdenamientoInsertion.deps.json
+C:\Users\brein\source\repos\OrdenamientoInsertion\OrdenamientoInsertion\bin\Debug\net6.0-windows\OrdenamientoInsertion.runtimeconfig.json
+C:\Users\brein\source\repos\OrdenamientoInsertion\OrdenamientoInsertion\bin\Debug\net6.0-windows\OrdenamientoInsertion.dll
+C:\Users\brein\source\repos\OrdenamientoInsertion\OrdenamientoInsertion\bin\Debug\net6.0-windows\OrdenamientoInsertion.pdb
+C:\Users\brein\source\repos\OrdenamientoInsertion\OrdenamientoInsertion\obj\Debug\net6.0-windows\OrdenamientoInsertion.csproj.AssemblyReference.cache
+C:\Users\brein\source\repos\OrdenamientoInsertion\OrdenamientoInsertion\obj\Debug\net6.0-windows\OrdenamientoInsertion.Insercion.resources
+C:\Users\brein\source\repos\OrdenamientoInsertion\OrdenamientoInsertion\obj\Debug\net6.0-windows\OrdenamientoInsertion.csproj.GenerateResource.cache
+C:\Users\brein\source\repos\OrdenamientoInsertion\OrdenamientoInsertion\obj\Debug\net6.0-windows\OrdenamientoInsertion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brein\source\repos\OrdenamientoInsertion\OrdenamientoInsertion\obj\Debug\net6.0-windows\OrdenamientoInsertion.AssemblyInfoInputs.cache
+C:\Users\brein\source\repos\OrdenamientoInsertion\OrdenamientoInsertion\obj\Debug\net6.0-windows\OrdenamientoInsertion.AssemblyInfo.cs
+C:\Users\brein\source\repos\OrdenamientoInsertion\OrdenamientoInsertion\obj\Debug\net6.0-windows\OrdenamientoInsertion.csproj.CoreCompileInputs.cache
+C:\Users\brein\source\repos\OrdenamientoInsertion\OrdenamientoInsertion\obj\Debug\net6.0-windows\OrdenamientoInsertion.dll
+C:\Users\brein\source\repos\OrdenamientoInsertion\OrdenamientoInsertion\obj\Debug\net6.0-windows\refint\OrdenamientoInsertion.dll
+C:\Users\brein\source\repos\OrdenamientoInsertion\OrdenamientoInsertion\obj\Debug\net6.0-windows\OrdenamientoInsertion.pdb
+C:\Users\brein\source\repos\OrdenamientoInsertion\OrdenamientoInsertion\obj\Debug\net6.0-windows\OrdenamientoInsertion.genruntimeconfig.cache
+C:\Users\brein\source\repos\OrdenamientoInsertion\OrdenamientoInsertion\obj\Debug\net6.0-windows\ref\OrdenamientoInsertion.dll
